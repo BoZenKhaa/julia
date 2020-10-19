@@ -1,5 +1,7 @@
 # Iteration utilities
 
+For information on how to implement custom iterators, see the [Interfaces](https://docs.julialang.org/en/v1/manual/interfaces/#man-interface-iteration) section of the manual.
+
 ```@docs
 Base.Iterators.Stateful
 Base.Iterators.zip
